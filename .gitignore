@@ -1,0 +1,19 @@
+# Compiler outputs
+*.exe
+*.o
+*.obj
+*.out
+
+# Build directories
+build/
+bin/
+cmake-build-debug/
+cmake-build-release/
+
+# IDE configurations
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln
