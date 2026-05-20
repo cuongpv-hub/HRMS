@@ -1,6 +1,6 @@
 ---
-name: hrms-frontend-skill
-description: 'Sử dụng khi phát triển giao diện người dùng (Frontend) cho dự án HRMS sử dụng React, TypeScript và Vite/Next.js. Skill chứa các tiêu chuẩn thành phần giao diện, cách gọi API và tích hợp kiểm tra mã nguồn.'
+name: hrms-frontend-react
+description: Xây dựng các UI Component và trang Frontend cho hệ thống HRMS bằng React, TypeScript và Tailwind CSS. Sử dụng khi người dùng yêu cầu 'tạo giao diện', 'viết component React', 'tạo form', 'kết nối API backend', hoặc 'làm frontend'. Tuyệt đối không sử dụng cho các tác vụ backend, cơ sở dữ liệu hay C++.
 ---
 
 ### Quy trình phát triển Frontend React + TypeScript HRMS
